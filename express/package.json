@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@web3sdkio/auth": "file:.yalc/@web3sdkio/auth",
-    "@web3sdkio/sdk": "^2.3.37",
+    "@web3sdkio/sdk": "^1.0.12",
     "dotenv": "^16.0.1",
     "ethers": "^5.6.9",
     "express": "^4.18.1"

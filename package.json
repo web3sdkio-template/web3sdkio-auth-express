@@ -1,6 +1,6 @@
 {
   "name": "web3sdkio-auth-express",
-  "repository": "https://github.com/web3sdkio-example/web3sdkio-auth-express.git",
+  "repository": "https://github.com/web3sdkio-template/web3sdkio-auth-express.git",
   "license": "Apache-2.0",
   "scripts": {
     "dev": "cd client && npm run dev",
